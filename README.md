@@ -1,2 +1,2 @@
 # README
-This is my intriduction
+This is my introduction
